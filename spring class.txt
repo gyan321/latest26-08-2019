@@ -1,0 +1,15 @@
+early instantiation 
+late instantiation 
+
+how to give information to spring -- using xml or java(beans)
+
+scopes: 5 
+singleton
+prototype
+request
+session
+
+
+
+
+
